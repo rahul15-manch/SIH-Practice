@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore dataset
+data/raw/asl_alphabet_train/
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv310/
+
+# Dataset
+data/raw/asl_alphabet_train/
+
+# Saved models
+models/
+
+# Mac OS
+.DS_Store
+
