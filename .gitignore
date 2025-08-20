@@ -218,8 +218,6 @@ venv310/
 # Dataset
 data/raw/asl_alphabet_train/
 
-# Saved models
-models/
 
 # Mac OS
 .DS_Store
