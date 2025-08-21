@@ -108,6 +108,6 @@ python src/train.py
 [![Rahul Manchanda](https://img.shields.io/badge/Rahul_Manchanda-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahul-manchanda-3959b120a/)  
 [![Tanishka](https://img.shields.io/badge/Tanishka-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanishka-mukhi09/)  
 [![Kashish](https://img.shields.io/badge/Kashish-LinkedIn-blue?style=flat&logo=linkedin)]()  
-[![Mayank](https://img.shields.io/badge/Mayank-LinkedIn-blue?style=flat&logo=linkedin)]()  
+[![Mayank](https://img.shields.io/badge/Mayank-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayank-gaur-dev/)  
 
 
