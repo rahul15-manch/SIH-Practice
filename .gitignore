@@ -216,8 +216,9 @@ __pycache__/
 venv310/
 
 # Dataset
+data
 data/raw/asl_alphabet_train/
-
+data/asl_alphabet_test/
 
 # Mac OS
 .DS_Store
