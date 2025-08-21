@@ -1,13 +1,19 @@
-tensorflow
-opencv-python
-mediapipe
+# Core
 streamlit
+tensorflow
 numpy
 pandas
 scikit-learn
 matplotlib
 seaborn
+scipy
+
+# Computer Vision
+opencv-python-headless   # use headless for cloud deployment
+mediapipe
+
+# Text to Speech
 gTTS
-pyttsx3
-scipy 
+pyttsx3==2.90   # specify a stable version
+
 
