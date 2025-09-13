@@ -1,9 +1,9 @@
-🖐️ **ASL Sign Language Recognition**
+#  🖐️ **ASL Sign Language Recognition**
 
 A deep learning-based project to recognize American Sign Language (ASL) letters from images.
 Built with TensorFlow, OpenCV, and Streamlit, this app allows users to upload an image of a hand sign and get a real-time prediction.
 
-🚀 **Features**
+## 🚀 **Features**
 
 - 📸 Image Upload – Upload an image of a hand sign for prediction.
 
@@ -15,7 +15,7 @@ Built with TensorFlow, OpenCV, and Streamlit, this app allows users to upload an
 
 - 🔊 Text-to-Speech – Converts predicted output into speech using gTTS or pyttsx3.
 
-📂 **Project Structure**
+## 📂 **Project Structure**
 ```
 ASL-Sign-Language-Recognition/
 │── app.py                 # Streamlit app
@@ -31,7 +31,7 @@ ASL-Sign-Language-Recognition/
 │── README.md              # Project documentation
 ```
 
-⚙️ **Installation**
+## ⚙️ **Installation**
 ```
 
 # Clone the repository
@@ -57,12 +57,12 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-📊 **Dataset**
+## 📊 **Dataset**
 
 We use the ASL Alphabet Dataset
  containing 87,000+ images of hand signs representing 29 classes (A–Z + Space, Delete, Nothing).
 
-🧠 **Model Training**
+## 🧠 **Model Training**
 
 - Input size: 64x64 RGB images
 
@@ -78,7 +78,7 @@ To retrain the model:
 ```
 python src/train.py
 ```
-🌐 **Deployment on Streamlit Cloud**
+## 🌐 **Deployment on Streamlit Cloud**
 
 - Push your code to GitHub.
 
@@ -88,26 +88,32 @@ python src/train.py
 
 - Deploy on Streamlit Cloud.
 
-🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
-- Python 3.10+
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow/Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logoColor=white)
+![gTTS](https://img.shields.io/badge/gTTS-FFDD00?style=for-the-badge&logo=google&logoColor=black)
+![pyttsx3](https://img.shields.io/badge/pyttsx3-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-- TensorFlow / Keras
 
-- OpenCV
 
-- Streamlit
-
-- NumPy / Pandas
-
-- Matplotlib / Seaborn
-
-- gTTS / pyttsx3
 ## 👨‍💻 **Authors**
 
-[![Rahul Manchanda](https://img.shields.io/badge/Rahul_Manchanda-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahul-manchanda-3959b120a/)  
-[![Tanishka](https://img.shields.io/badge/Tanishka-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tanishka-mukhi09/)  
-[![Kashish](https://img.shields.io/badge/Kashish-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kashish-rana-6116691b5/)  
-[![Mayank](https://img.shields.io/badge/Mayank-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mayank-gaur-dev/)  
+### 🌐 Connect with us  
+## 👥 Team Members  
+
+| Name | LinkedIn |
+|------|----------|
+| **Rahul Manchanda** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-manchanda-3959b120a/) |
+| **Tanishka** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishka-mukhi09/) |
+| **Kashish** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashish-rana-6116691b5/) |
+| **Mayank** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-gaur-dev/) |
+
 
 
